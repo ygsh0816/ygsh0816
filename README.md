@@ -4,8 +4,8 @@ Currently, as a Consultant and Senior Python Developer at Emergn, I design advan
 
 Key skills include:
 
-	•	Python, Django REST Framework, FastAPI
-	•	API Development, Microservices Architecture
+	•	Python, Django REST Framework, FastAPI, Django Ninja
+	•	API Development, Microservices Architecture, Hexagonal Architecture
 	•	Test-Driven Development (TDD) with Pytest, Unittest
 	•	AWS Services (SNS, S3), Redis, PostgreSQL, MongoDB
 	•	Automation scripting with Python, Pandas, NumPy
