@@ -1,6 +1,8 @@
 A Senior Software Engineer with over 8 years of experience in designing and developing high-performance software solutions across diverse industries. I specialize in Python, Django, FastAPI, and have a strong background in building scalable, data-driven applications. My expertise includes backend architecture, API development, and implementing automation scripts to streamline workflows.
 
-Currently, as a Consultant and Senior Python Developer at Emergn, I design advanced data analytics tools, reducing manual data processes by over 70%. Previously, I served as the Lead Backend Developer at Mika, where I led a team of engineers, reduced technical debt by 80%, and spearheaded the adoption of Test-Driven Development (TDD) practices.
+Currently, I work at Kraken, an energy company, where I contribute to the development of workflows-v2, a no-code workflow service enabling non-technical users to create and run workflows via a visual editor. My role involves backend development, API design, and integrating various components within the workflows-v2 system.
+
+I have a strong background in designing scalable web applications, working with distributed systems, and optimizing database performance. Previously, I have worked on multiple projects involving complex business logic, automation, and workflow orchestration. Passionate about technology and knowledge-sharing, I also engage with aspiring developers through mentoring and technical discussions.
 
 Key skills include:
 
